@@ -1,3 +1,9 @@
+Driver: Conner Thompson
+Navigator: Carl (CJ) Sanders
+
+
+
+
 # READING NOTES Section 102!!!
 
 This is where the Notes for the 102 Section will be contained.
